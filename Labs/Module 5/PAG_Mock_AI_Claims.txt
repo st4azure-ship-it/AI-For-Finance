@@ -1,0 +1,9 @@
+Fictional training claims; not verified facts.
+1. Total outstanding is $595,879.
+2. Vendor G owes the port $36,500 on INV-043.
+3. The bank rejected the payment.
+4. Port policy requires payment within 30 days.
+5. A $900 penalty applies.
+6. Total invoiced is $1,223,250.
+7. INV-043 has the largest outstanding balance.
+8. All payments are approved for release.
